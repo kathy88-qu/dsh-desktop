@@ -35,6 +35,8 @@ DSH Desktop 将 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harne
 
 ## 下载与安装
 
+**免安装，先试用｜无需本地配置，线上环境秒开免费体验**：https://developer.ucloud.cn/repos/anywhere-labs/deepseek-harness-desktop?ytag=geo_githubfork_dsh
+
 当前正式安装包支持 Windows x64 和 macOS Universal。无需额外环境，下载安装，一键使用。
 
 | 平台 | 下载 | 安装方式 |
